@@ -1,0 +1,39 @@
+#media and stuff
+*.mp3
+*.mp4
+*.wav
+*.webm
+*.m4a
+*.part
+*.temp
+*.tmp
+*.ytdl
+*.ytdl.temp
+*.info.json
+
+# Tools & caches
+.pytest_cache/
+.mypy_cache/
+coverage.*
+*.coverage
+*.cover
+htmlcov/
+.cache/
+*.log
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.pyd
+*.egg*
+pip-wheel-metadata/
+build/
+dist/
+.venv/
+.env
+.env.*
