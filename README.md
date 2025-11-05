@@ -1,6 +1,6 @@
 ## Youtube Bay - A YT video downloader
 A youtube video downloader, from the terminal. <br/>
-Download youtube videos, in any fromat you want.<br/>
+Download youtube videos, in any format you want.<br/>
 Arising from my need to download videos from youtube, and the insane trust I have on third party websites, so here is my program, where you can download youtube videos in either video or audio format, your wish is this program's command.
 
 ## Instructions
