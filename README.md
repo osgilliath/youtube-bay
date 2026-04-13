@@ -13,7 +13,9 @@ Download and run the [yt-bay.exe](yt-bay.exe)
 - Paste the video url
 - Boom, Done! Easy af!!
 
-now if you want to use and check the [source code](yt-bay.py), it is included in the repo as well.
+> this .exe will only work in a windows system
+
+for linux or mac based system use the [source code](yt-bay.py)
 
 ## For source code usage
 
