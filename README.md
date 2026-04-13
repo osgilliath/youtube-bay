@@ -21,7 +21,7 @@ for linux or mac based system use the [source code](yt-bay.py)
 
 To install the required libraries, run:
 ```bash
-pip install imageio_ffmpeg
+pip install imageio_ffmpeg yt-dlp
 ```
 
 Then simply run the program:
